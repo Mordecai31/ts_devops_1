@@ -5,7 +5,7 @@ Hello, my name is Mordecai and I am learning DevOps and Git.
 check my skill(about.md)
 
 ## Projects
-- DevOps Lab 1
+DevOps Lab 1
 
 ## Projects
-- Git Basics Assignment
+Git Basics Assignment
